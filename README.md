@@ -9,9 +9,3 @@ Install the latest pypi release with pip install -U django-jazzmin
 
 Add jazzmin to your INSTALLED_APPS before django.contrib.admin
 
-installed_apps = [
-    'jazzmin',
-
-    'django.contrib.admin',
-    [...]
-]
